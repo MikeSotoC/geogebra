@@ -1,2 +1,7 @@
 # Native Android port
-WebView removed. Native Activity starts offline without INTERNET permission. Next: GeoGebra shared kernel, Android rendering, Giac/JNI CAS, algebra input, math keyboard with Tab completion, GGB storage and startup optimization.
+
+WebView removed. Native Activity starts offline without INTERNET permission.
+
+Current milestone: native offline bootstrap is active on `android-only`.
+
+Next: GeoGebra shared kernel, Android rendering, Giac/JNI CAS, algebra input, math keyboard with Tab completion, GGB storage and startup optimization.
